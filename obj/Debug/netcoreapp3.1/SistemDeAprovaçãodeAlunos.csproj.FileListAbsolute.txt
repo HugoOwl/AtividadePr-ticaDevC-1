@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\obj\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\obj\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.Form1.resources
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\obj\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\obj\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\obj\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\obj\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\bin\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.exe
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\bin\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.deps.json
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\bin\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.runtimeconfig.json
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\bin\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\bin\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.dll
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\bin\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.pdb
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\obj\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.dll
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\obj\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.pdb
+C:\Users\Usuario\source\repos\SistemDeAprovaçãodeAlunos\SistemDeAprovaçãodeAlunos\obj\Debug\netcoreapp3.1\SistemDeAprovaçãodeAlunos.genruntimeconfig.cache
